@@ -1,7 +1,7 @@
 ### Hey there! 👋
 
 ![](https://komarev.com/ghpvc/?username=devtrivedi96&color=blue)
-[![GitHub DevTrivedi](https://img.shields.io/github/followers/devtrivedi?label=follow&style=social)](https://github.com/devtrivedi96)
+[![GitHub DevTrivedi](https://img.shields.io/github/followers/devtrivedi96?label=follow&style=social)](https://github.com/devtrivedi96)
 
 Hi, I’m **Dev Trivedi** — a passionate **Software Developer** focused on **mobile apps, backend APIs, and AI-powered solutions** 🚀
 
