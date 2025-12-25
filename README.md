@@ -1,7 +1,7 @@
 ### Hey there! 👋
 
-![](https://komarev.com/ghpvc/?username=devtrivedi&color=blue)
-[![GitHub DevTrivedi](https://img.shields.io/github/followers/devtrivedi?label=follow&style=social)](https://github.com/devtrivedi)
+![](https://komarev.com/ghpvc/?username=devtrivedi96&color=blue)
+[![GitHub DevTrivedi](https://img.shields.io/github/followers/devtrivedi?label=follow&style=social)](https://github.com/devtrivedi96)
 
 Hi, I’m **Dev Trivedi** — a passionate **Software Developer** focused on **mobile apps, backend APIs, and AI-powered solutions** 🚀
 
@@ -15,7 +15,7 @@ My interests span across **full-stack development**, **cloud-native architecture
 
 <p align="left">
    <a href="https://reactnative.dev/" target="_blank">
-       <img src="https://raw.githubusercontent.com/devtrivedi96/assets/react-native.gif" height="80"/>
+       <img src="" height="80"/>
    </a>
    <a href="https://www.javascript.com/" target="_blank">
        <img src="./assets/js.gif" height="70"/>
@@ -30,7 +30,7 @@ My interests span across **full-stack development**, **cloud-native architecture
        <img src="https://raw.githubusercontent.com/devtrivedi/assets/main/express.gif" height="70"/>
    </a>
    <a href="https://www.python.org/" target="_blank">
-       <img src="https://raw.githubusercontent.com/devtrivedi/assets/main/python.gif" height="80"/>
+       <img src="./assets/python.gif" height="80"/>
    </a>
 </p>
 
@@ -43,10 +43,10 @@ My interests span across **full-stack development**, **cloud-native architecture
        <img src="https://raw.githubusercontent.com/devtrivedi/assets/main/firebase.gif" height="80"/>
    </a>
    <a href="https://cloud.google.com/" target="_blank">
-       <img src="https://raw.githubusercontent.com/devtrivedi/assets/main/gcp.gif" height="75"/>
+       <img src="./assets/gcp.gif" height="75"/>
    </a>
    <a href="https://www.docker.com/" target="_blank">
-       <img src="https://raw.githubusercontent.com/devtrivedi/assets/main/docker.gif" height="75"/>
+       <img src="./assets/docker.gif" height="75"/>
    </a>
 </p>
 
@@ -59,7 +59,7 @@ My interests span across **full-stack development**, **cloud-native architecture
        <img src="https://raw.githubusercontent.com/devtrivedi/assets/main/firestore.gif" height="80"/>
    </a>
    <a href="https://www.mongodb.com/" target="_blank">
-       <img src="https://raw.githubusercontent.com/devtrivedi/assets/main/mongodb.gif" height="80"/>
+       <img src="./assets/mongodb.gif" height="80"/>
    </a>
 </p>
 
@@ -76,7 +76,7 @@ My interests span across **full-stack development**, **cloud-native architecture
 
 ## 📊 GitHub Summary
 
-![Dev Trivedi GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devtrivedi&theme=monokai)
+![Dev Trivedi GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devtrivedi96&theme=monokai)
 
 ---
 
@@ -88,11 +88,3 @@ My interests span across **full-stack development**, **cloud-native architecture
 - 📧 Email: devtrivedi5667@gmail.com
 
 ---
-
-## ☕ Support
-
-If you like my work or found my projects useful, feel free to support me 🙌
-
-<a href="https://buymeacoffee.com/devtrivedi" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="60"/>
-</a>
