@@ -15,10 +15,10 @@ My interests span across **full-stack development**, **cloud-native architecture
 
 <p align="left">
    <a href="https://reactnative.dev/" target="_blank">
-       <img src="https://raw.githubusercontent.com/devtrivedi/assets/main/react-native.gif" height="80"/>
+       <img src="https://raw.githubusercontent.com/devtrivedi96/assets/react-native.gif" height="80"/>
    </a>
    <a href="https://www.javascript.com/" target="_blank">
-       <img src="https://raw.githubusercontent.com/devtrivedi/assets/main/javascript.gif" height="70"/>
+       <img src="./assets/js.gif" height="70"/>
    </a>
    <a href="https://www.typescriptlang.org/" target="_blank">
        <img src="https://raw.githubusercontent.com/devtrivedi/assets/main/typescript.gif" height="70"/>
