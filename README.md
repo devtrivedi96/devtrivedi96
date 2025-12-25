@@ -56,7 +56,7 @@ My interests span across **full-stack development**, **cloud-native architecture
 
 <p align="left">
    <a href="https://firebase.google.com/docs/firestore" target="_blank">
-       <img src="./assets/firebase.lottie" height="80"/>
+       <img src="./assets/firebase.gif" height="80"/>
    </a>
    <a href="https://www.mongodb.com/" target="_blank">
        <img src="./assets/mongo.gif" height="80"/>
