@@ -15,7 +15,7 @@ My interests span across **full-stack development**, **cloud-native architecture
 
 <p align="left">
    <a href="https://reactnative.dev/" target="_blank">
-       <img src="" height="80"/>
+       <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="80"/>
    </a>
    <a href="https://www.javascript.com/" target="_blank">
        <img src="./assets/js.gif" height="70"/>
@@ -82,7 +82,7 @@ My interests span across **full-stack development**, **cloud-native architecture
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/dev-trivedi
+- 💼 LinkedIn: https://www.linkedin.com/in/dev-trivedi96/
 - 🧠 GitHub: https://github.com/devtrivedi96
 - ✍️ Blog / Project Docs: _coming soon_
 - 📧 Email: devtrivedi5667@gmail.com
